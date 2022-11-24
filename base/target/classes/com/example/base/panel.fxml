@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="1080.0" prefWidth="1920.0" style="-fx-background-color: #6788B8;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Button layoutX="122.0" layoutY="37.0" mnemonicParsing="false" style="-fx-background-radius: 25;" text="Клиенты">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Button>
+      <Button layoutX="327.0" layoutY="37.0" mnemonicParsing="false" style="-fx-background-radius: 25;" text="   Заказ   ">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Button>
+      <Button layoutX="540.0" layoutY="37.0" mnemonicParsing="false" style="-fx-background-radius: 25;" text="   Туры   ">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Button>
+      <Button layoutX="957.0" layoutY="37.0" mnemonicParsing="false" style="-fx-background-radius: 25;" text=" Страна  ">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Button>
+      <Button layoutX="1168.0" layoutY="37.0" mnemonicParsing="false" style="-fx-background-radius: 25;" text="   Город   ">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Button>
+      <Button layoutX="1391.0" layoutY="37.0" mnemonicParsing="false" style="-fx-background-radius: 25;" text="   Отель   ">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Button>
+      <Button layoutX="1615.0" layoutY="37.0" mnemonicParsing="false" style="-fx-background-radius: 25;" text="  Номер  ">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Button>
+      <Button layoutX="747.0" layoutY="37.0" mnemonicParsing="false" style="-fx-background-radius: 25;" text=" Оплата  ">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Button>
+
+
+   </children>
+</AnchorPane>
